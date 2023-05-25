@@ -1,4 +1,4 @@
-# ChosumSm
+# ChosunSm
 
 [Visit Source](https://event.chosun.com/100/100font.html)
 
@@ -7,7 +7,7 @@
 CSS
 
 ```
-font-family: 'ChosumSm';
+font-family: 'ChosunSm';
 ```
 
 &nbsp;
@@ -15,7 +15,7 @@ font-family: 'ChosumSm';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/ChosumSm/ChosumSm.css" type="text/css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/ChosunSm/ChosunSm.css" type="text/css"/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosumSm/ChosumSm.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosunSm/ChosunSm.css');
 ```
 
 &nbsp;
@@ -32,12 +32,12 @@ font-face
 
 ```
 @font-face {
-    font-family: 'ChosumSm';
+    font-family: 'ChosunSm';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosumSm/ChosumSm.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosumSm/ChosumSm.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosumSm/ChosumSm.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosunSm/ChosunSm.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosunSm/ChosunSm.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/ChosunSm/ChosunSm.ttf') format('truetype');
 }
 ```
